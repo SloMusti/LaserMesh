@@ -14,7 +14,7 @@ Red laser pointers can be modulated most definitely to a few Mhz if not more, de
 * RS232 laser link from 1997: http://www.qsl.net/n9zia/wireless/laser/laser.htm
 * 100m+ simple audio link https://www.youtube.com/watch?v=MCTqC2-AN7o
 
- ## Hardware
+## Hardware
  To send and receive, we need basically a laser pointer and a optical detector. Low-cost laser module with modulation input explained here: http://henrysbench.capnfatz.com/henrys-bench/arduino-output-devices/ky-008-arduino-laser-module-guide-and-tutorial/
  
  Interestingly, laser sensor module for obstacled apparently modualted at 180kHz http://www.waveshare.com/laser-sensor.htm, has a receiver and transmiter on it which we could use with alternative electronics.
@@ -30,4 +30,5 @@ Red laser pointers can be modulated most definitely to a few Mhz if not more, de
  * Red laser module/pointer for TX
  * Solar cell as RX
  * Battery or USB power
+ * [Flex tube for laser mounting]( https://www.aliexpress.com/store/product/White-1-4-12mm-Thread-Diameter-Flat-Nozzle-Flexible-Coolant-Pipe/1728029_32350960894.html)
  
